@@ -188,12 +188,14 @@ h1 {
    }
 
    .card-2 {
+      width: 100%;
+      max-width: 100%;
       padding: 0;
       border-radius: 0rem 0rem 0rem 1rem;
    }
 
    #img-change {
-      width: 100%;
+      width: 50%;
       height: 100%;
    }
    #email {
